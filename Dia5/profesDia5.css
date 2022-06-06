@@ -1,0 +1,26 @@
+.general{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.form{
+    width: 35%;
+    margin-left: 5%;
+    margin-top: 2%;
+    border: 2px solid rgba(34, 34, 106, 0.756);;
+    background-color: rgba(89, 89, 240, 0.187);
+    border-radius: 20px;
+    padding: 1%;
+
+}
+.resultados{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+    margin-right: 5%;
+    margin-top: 2%;
+    border: 2px solid rgba(34, 34, 106, 0.756);;
+    border-radius: 20px;
+    background-color: rgba(89, 89, 240, 0.171);
+    padding: 1%;
+}
