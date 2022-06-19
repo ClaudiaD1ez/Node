@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Dia2"
+		},
+		{
+			"path": "..\\..\\Dia3"
+		},
+		{
+			"path": "..\\..\\Dia4"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Dia5"
+	}
+}

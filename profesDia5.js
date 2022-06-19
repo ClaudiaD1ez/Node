@@ -107,13 +107,12 @@ async function mostrar(){
            for(i=0 ; i<resultado.profesionales.length ; i++){
             
             console.log("hola")
-
              let imprimirTodo =
            `<p>Nombre:   ${resultado.profesionales[i].name}</p>
             <p>Edad:     ${resultado.profesionales[i].age}</p>
             <p>Genero:   ${resultado.profesionales[i].genre}</p>
             <p>Peso:     ${resultado.profesionales[i].weight}</p>
-            <p>Altura:   ${resultado.profesionales[i].height}</p>`;
+            <p>Altura:   ${resultado.profesionales[i].height}</p>`
             
             document.getElementById("mostrarArray").innerHTML += imprimirTodo
            }
